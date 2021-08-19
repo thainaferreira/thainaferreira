@@ -1,7 +1,7 @@
 ### Aooooba, aqui é a Thai 👋
 
 - 🔭 Trabalho com Front-End
-- 🐍 Estudando Flask e Python 
+- 🐍 Estudando Python, Flask e AWS 
 - 🐱 Amante de gatos
 
  <div>
