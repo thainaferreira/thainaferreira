@@ -21,7 +21,7 @@
    <img align="center" alt="Thai-Heroku" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
    <img align="center" alt="Thai-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
    <img align="center" alt="Thai-Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
-   <img align="right" alt="Thainá GIF" width="125" height="125" border="0" src="https://i.picasion.com/pic91/82919ffb1de08e09b60a119423254634.gif" />
+   <img align="right" alt="Thainá GIF" width="150" height="150" border="0" src="https://i.picasion.com/pic91/82919ffb1de08e09b60a119423254634.gif" />
  </div>
   
   ##
