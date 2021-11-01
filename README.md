@@ -1,6 +1,6 @@
 ### Aooooba, aqui é a Thai 👋
 
-- 🔭 Trabalho com Front-End
+- 🔭 Trabalho tanto com Front-End quanto com Back-End, no entanto tenho minha preferência pelo segundo.
 - 🐍 Estudando Django 
 - 🐱 Amante de gatos
 
