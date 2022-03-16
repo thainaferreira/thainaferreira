@@ -10,17 +10,20 @@
 </div>
 
  <div>
-  <img align="center" alt="Thai-GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+   <img align="center" alt="Thai-GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+   <img align="center" alt="Thai-AZURE" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
+   <img align="center" alt="Thai-AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
    <img align="center" alt="Thai-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
    <img align="center" alt="Thai-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
    <img align="center" alt="Thai-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
    <img align="center" alt="Thai-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
    <img align="center" alt="Thai-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
    <img align="center" alt="Thai-Redux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
-   <img align="center" alt="Thai-Heroku" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
    <img align="center" alt="Thai-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
    <img align="center" alt="Thai-Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
    <img align="right" alt="Thainá GIF" width="150" height="150" border="0" src="https://i.picasion.com/pic91/82919ffb1de08e09b60a119423254634.gif" />
+   <img align="center" alt="Thai-Heroku" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
+   <img align="center" alt="Thai-MONGO" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
  </div>
   
   ##
